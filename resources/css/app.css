@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: white;
+    color: white;
+    letter-spacing: 0.32rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.app-container {
+    height: 80rem;
+    width: 40rem;
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+}

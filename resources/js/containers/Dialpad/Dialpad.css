@@ -1,0 +1,30 @@
+.top-panel {
+    background: black;
+    height: 43.5rem;
+    padding-top: 3rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3.2rem;
+    font-weight: 700;
+    margin: 2.6rem 0 6.2rem 0;
+}
+
+.bottom-panel {
+    background: white;
+    height: 365px;
+    overflow: scroll;
+}
+.call-modal {
+    padding: 51px;
+    background: white;
+    color: black;
+    border-radius: 9px;
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+button {
+    width:124px;
+}
